@@ -1,0 +1,10 @@
+db_username       = "auroraserverless"      
+db_password       = "cautiva123AV" # 
+route53_zone_id   = "Z0609997T1V1G1QGC9XO" 
+route53_zone_name = "cautivaws.net" 
+keycloak_username = "demo_user"
+keycloak_password = "cautiva123AV" # Input a password for accsessing Keycloak Server
+cert_arn          = "arn:aws:acm:us-east-1:155849965041:certificate/ae1cd87f-cdd4-47d5-b308-c6c1e4586d3f"
+database_name     = "keycloakdemo"
+environment       = "dev"
+cluster_version   = "1.27"
